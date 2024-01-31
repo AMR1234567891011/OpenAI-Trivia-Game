@@ -29,7 +29,7 @@ def answer(x):
     prompt = "what is the best answer for the question "+ Questions[x]
     return chat(prompt)
 
-openai.api_key = "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"     #"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"
+openai.api_key = "KEY GOES IN HERE"
 def chat(prompt):#An Example of a normal chat 
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
