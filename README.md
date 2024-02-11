@@ -1,0 +1,1 @@
+This is a quick and easy openAI trivia game created for a gathering of friends. it was designed to run on a laptop and be passed around from team to team with a display mirroring the screen on a TV. The event was a success!
